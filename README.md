@@ -227,7 +227,7 @@ Built by **Neural Foundry** for the **Google Solution Challenge 2026**.
 |--------|-------|
 | [Kavya Bhatiya](https://github.com/kvb1201) | Founder · road pipeline · hybrid scoring · auth/planner · deployment |
 | [Ojas Srivastava](https://github.com/Ojas-Srivastava05) | Technical lead · Next.js · rail · compose · Supabase · GCP |
-| [Shreya](https://github.com/ShreyaSVNIT) | Water/maritime pipeline · PortWatch · cockpit UI |
+| [Karanbhai Bheda](https://github.com/karanbhai029) | Full-stack Developer · Route Composer · SSE streaming · decision intelligence |
 | [Samanvitha Bolisetty](https://github.com/samanvitha7) | Air cargo · OTP scoring · international routing |
 
 ---
@@ -246,7 +246,7 @@ We built LogiFlow because logistics should not be a guessing game. Every farmer,
 
 This repository contains the complete implementation, documentation, deployment assets, and architecture artifacts for our Google Solution Challenge 2026 submission.
 
-— **Kavya, Ojas, Shreya & Samanvitha** · Neural Foundry · 2026
+— **Kavya, Ojas, Karan & Samanvitha** · Neural Foundry · 2026
 
 ---
 
