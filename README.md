@@ -226,8 +226,8 @@ Built by **Neural Foundry** for the **Google Solution Challenge 2026**.
 | Member | Focus |
 |--------|-------|
 | [Kavya Bhatiya](https://github.com/kvb1201) | Founder · road pipeline · decision intelligence · auth/planner · deployment |
-| [Ojas Srivastava](https://github.com/Ojas-Srivastava05) | Technical lead · Next.js · compose · SSE streaming · Supabase · GCP |
-| [Karanbhai Bheda](https://github.com/karanbhai029) | Full-stack Developer · Route Composer · rail · hybrid scoring |
+| [Ojas Srivastava](https://github.com/Ojas-Srivastava05) | Technical lead · Next.js · compose · SSE streaming · hybrid scoring · Supabase · GCP |
+| [Karanbhai Bheda](https://github.com/karanbhai029) | Full-stack Developer · Route Composer · rail · SSE streaming |
 | [Vansh Rawat](https://github.com/Vansh-ai406) | Air cargo · OTP scoring · international routing |
 
 ---
